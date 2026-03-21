@@ -8,4 +8,4 @@ My task is to analyse the provided data to identify patterns and factors that co
 2. How do delay times vary by bus company and borough?
 3. Is there a correlation between specific days of the week and the frequency of breakdowns or delays?
 
-I then used pivot tables and created charts to answer these questions. Please find the charts and my comments to the questions in the following link: https://docs.google.com/spreadsheets/d/1ZQ386t2lPC_KWbBCPEx2XgmBc_DzZHIZ/edit?usp=share_link&ouid=111784979393678498610&rtpof=true&sd=true
+I then used pivot tables and created charts to answer these questions. Please find the charts and my comments to the questions in the Excel file [here](https://drive.google.com/drive/folders/1L-hoDO0QYpDDU8zuRxgjXCGywVGCrL76?usp=share_link).
